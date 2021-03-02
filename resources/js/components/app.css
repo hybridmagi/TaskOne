@@ -1,0 +1,27 @@
+#btn{
+    display: flex;
+    margin-top: 15px;
+    width: 200px;
+ }
+ 
+ #list{
+    display: flex;
+ }
+ 
+ .list-wrapper{
+     border: 1px solid slategray;
+     border-radius: 4px;
+     margin-top: 5px;
+     background-color: rgb(205, 224, 243);
+ }
+ 
+ #venlist{
+     margin-left: 250px;
+ }
+ 
+ .listvenues{
+     list-style-type: none;
+     padding: 10px;
+     font-size: 16px;
+     font-weight: 600;
+ }
